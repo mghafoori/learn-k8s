@@ -8,10 +8,10 @@ metadata:
 spec:
   containers:
   - name: web-app-container
-    image: milad.azurecr.io/web-app:0.0.1
+    image: milad.azurecr.io/web-app:1.0.0
     resources:
       limits:
         memory: "128Mi"
         cpu: "500m"
     ports:
-      - containerPort: 80
+      - containerPort: 54100
