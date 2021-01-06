@@ -23,5 +23,10 @@ kubectl tips:
 `kubectl get pods --show-labels`
 
 Test web-app:
-curl http://localhost:8080/weatherforecast
-curl http://{External IP}/weatherforecast
+
+
+`curl http://{Web App External IP}/weatherforecast`
+
+Test http-func:
+
+`curl http://{Http Func External IP}/api/HttpTriggerTest`
