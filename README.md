@@ -24,7 +24,6 @@ kubectl tips:
 
 Test web-app:
 
-
 `curl http://{Web App External IP}/weatherforecast`
 
 Test http-func:
