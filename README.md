@@ -1,6 +1,6 @@
 Tutorial for creating a test K8S cluster in Azure:
 
-[6 Steps To Run .NET Core Apps In Azure Kubernetes](https://thorsten-hans.com/6-steps-to-run-netcore-apps-in-azure-kubernetes)
+[6 Steps To Run .NET Core Apps In Azure Kubernetes](https://thorsten-hans.com/6-steps-to-run-netcore-apps-in-azure-kubernetes){:target="_blank"}
 
 Note that it is a linux tutorial. There are some differences if you use PowerShell in Windows.
 
